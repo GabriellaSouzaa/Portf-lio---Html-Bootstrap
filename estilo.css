@@ -1,0 +1,38 @@
+body {
+    background-color: #f9d5d3;
+}
+
+.portfolio span {
+    color: #f9004d;
+}
+
+.portfolio a{
+    font-size: 40px;
+}
+
+h1 span {
+    color: #f9004d;
+}
+
+footer {
+    background-color: #fce7e7; 
+}
+
+.social img {
+    height: 40px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #f9004d;
+}
+
+.card:hover {
+    border-color: #f9004d;
+}
+
+
+@media (max-width: 768px) {
+    .img-fluid {
+        max-width: 300px;
+    }
+}
